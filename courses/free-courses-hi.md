@@ -520,12 +520,14 @@
 
 #### Node.js
 
+* [Complete NodeJS + ExpressJS + MongoDB Course in Hindi \| Notes \| Certification](https://www.youtube.com/playlist?list=PL78RhpUUKSwfeSOOwfE9x6l5jTjn5LbY3) - Complete Coding by Prashant Sir
 * [Master NodeJS](https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo) - Piyush Garg
 * [Node JS](https://www.youtube.com/playlist?list=PLbGui_ZYuhiiSVvVP_9w57-aU7kx_H9bu) - Geeky Shows
 * [Node Js Tutorial in Hindi](https://www.youtube.com/watch?v=BLl32FvcdVM&ab_channel=CodeWithHarry) - Code With Harry
 * [Node.js Tutorial in Hindi](https://www.youtube.com/playlist?list=PLgOUQYMnO_SRqPikOJBu5G1ld4bJUZCmy) - truecodex
 * [Node.js Tutorials for Beginners in Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNCk_D9VW_zNh60WuQIzo3K) - Tutorials Website
 * [NodeJS in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV456iofeMKReMTvWLr7Ki9At) - Code Step By Step
+* [NodeJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLzjZaW71kMwScTRKzoasdyB1sX-a9EbFp) - Hello World
 * [NodeJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG) - Telusko
 * [NodeJS Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8) - Vinod Bahadur Thapa (Thapa Technical)
 
@@ -620,6 +622,7 @@
 
 ### Mongo DB
 
+* [Complete MongoDB Tutorial Series in Hindi](https://www.youtube.com/playlist?list=PL5IobCNPDnI_Xh2iya6p37Ain_71ro71w) - Simple Snip Code
 * [MongoDB Complete Course Tutorial in Hindi](https://www.youtube.com/watch?v=rU9ZODw5yvU) - Vinod Bahadur Thapa (Thapa Technical)
 * [MongoDB full course for beginners](https://youtube.com/playlist?list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa) - Thapa Technical
 * [MongoDB playlist in Hindi](https://www.youtube.com/playlist?list=PLA3GkZPtsafZydhN4nP0h7hw7PQuLsBv1) - Engineering Digest
