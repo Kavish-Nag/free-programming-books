@@ -39,6 +39,7 @@
 * [R](#r)
 * [React](#react)
 * [Redis](#redis)
+* [Rego](#rego)
 * [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
@@ -92,8 +93,15 @@
 
 ### <a id="csharp"></a>C\#
 
+* [C# Online Compiler](https://www.scholarhat.com/compiler/csharp) - ScholarHat
+* [C# Online Compiler](https://www.w3schools.com/cs/cs_compiler.php) - W3Schools
+* [C# playground](https://codapi.org/csharp) - Codeapi
+* [OneCompiler](https://onecompiler.com/csharp/3wv9zujyk)
+* [Online C# Compiler](https://www.mycompiler.io/online-csharp-compiler) - myCompiler
+* [Online C# Compiler IDE](https://www.jdoodle.com/compile-c-sharp-online) - JDoodle
 * [OnlineGDB](https://www.onlinegdb.com/online_csharp_compiler)
-* [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler/)
+* [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler)
+* [SharpLab](https://sharplab.io)
 * [SoloLearn](https://code.sololearn.com/csharp)
 
 
@@ -113,7 +121,6 @@
 
 ### ClojureScript
 
-* [Replumb REPL](https://clojurescript.io)
 * [Web REPL](http://clojurescript.net)
 
 
@@ -164,7 +171,8 @@
 
 ### Git
 
-* [Git](https://learngitbranching.js.org/?NODEMO)
+* [Git-school](https://git-school.github.io/visualizing-git)
+* [Learn Git Branching](https://learngitbranching.js.org/?NODEMO)
 
 
 ### Go
@@ -209,10 +217,13 @@
 
 ### Java
 
+* [Ada Face](https://www.adaface.com/online-compiler/online-java-compiler)
 * [InterviewBit - Online Java Compiler IDE](https://www.interviewbit.com/online-java-compiler/)
 * [Java Compiler](https://www.codinguru.online/compiler/java)
 * [JDoodle - Online Java Compiler Advanced IDE](https://www.jdoodle.com/online-java-compiler-ide/)
 * [JDoodle - Online Java Compiler IDE](https://www.jdoodle.com/online-java-compiler/)
+* [NextLeap](https://nextleap.app/online-compiler/java-programming)
+* [OneCompiler](https://onecompiler.com/java)
 * [Online Java Playground](https://labex.io/tutorials/java-online-java-playground-372914)
 * [OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 * [Programiz - Online Java Compiler](https://www.programiz.com/java-programming/online-compiler/)
@@ -310,6 +321,7 @@
 * [Codepad](http://codepad.org/?lang=PHP)
 * [ExtendsClass](https://extendsclass.com/php.html)
 * [PHP Online Compiler](https://www.codinguru.online/compiler/php)
+* [PHPHub](https://phphub.net/sandbox/)
 * [PHPTester](http://phptester.net)
 * [SoloLearn](https://code.sololearn.com/php)
 
@@ -356,6 +368,11 @@
 * [Try Redis](https://try.redis.io)
 
 
+### Rego
+
+* [Rego Playground](https://play.openpolicyagent.org) - Open Policy Agent
+
+
 ### Regular Expressions
 
 * [iHateRegex: regex for playground](https://ihateregex.io/playground) - Geon George
@@ -375,7 +392,10 @@
 
 ### Rust
 
+* [Codapi](https://codapi.org/rust)
+* [Rust Explorer](https://www.rustexplorer.com)
 * [Rust Playground](https://play.rust-lang.org)
+* [Rustfinity](https://www.rustfinity.com/playground)
 
 
 ### RxJS
@@ -403,6 +423,11 @@
 ### SQL
 
 * [Extends Class](https://extendsclass.com/sqlite-browser.html)
+* [Online SQL Editor](https://www.programiz.com/sql/online-compiler) - Programiz
+* [Online SQL Editor](https://www.tutorialspoint.com/compilers/online-sql-editor.htm) - Tutorialspoint
+* [Oracle Live SQL](https://livesql.oracle.com)
+* [Practice SQL](https://www.sql-practice.com)
+* [SQL Server Online Editor & Compiler](https://onecompiler.com/sqlserver) - OneCompiler
 * [SQLFiddle](http://sqlfiddle.com)
 * [SQLite Online](https://sqliteonline.com)
 
@@ -443,5 +468,4 @@
 
 * [Vim Adventure](https://vim-adventures.com) - Doron Linder
 * [Vim Genius](http://vimgenius.com) - Vic Ramon, Rye Mason
-
 
